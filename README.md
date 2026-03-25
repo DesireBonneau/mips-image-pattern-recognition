@@ -5,8 +5,7 @@ A high-performance pattern recognition tool written completely in MIPS Assembly.
 ## Showcase
 ![Original 512x256 Image](pxlcon512x256cropgs.png)
 ![Search Template 8x8](template8x8gs.png)
-*(Run the program in MARS and replace this placeholder with a screenshot of the green box highlight!)*
-![Matched Result Screenshot](placeholder_result.png)
+![Matched Result Screenshot](result512x128.png)
 
 ## Algorithm Details
 
